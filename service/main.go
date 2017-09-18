@@ -34,7 +34,7 @@ const (
 	PROJECT_ID = "prefab-environs-180301"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.164.199.80:9200"
+	ES_URL = "http://34.212.159.197:9200"
 )
 
 func main() {
