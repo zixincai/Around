@@ -31,7 +31,7 @@ const (
 	TYPE = "post"
 	DISTANCE = "200km"
 	// Needs to update
-	PROJECT_ID = "brave-tea-180122"
+	PROJECT_ID = "prefab-environs-180301"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
 	ES_URL = "http://35.164.199.80:9200"
